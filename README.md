@@ -1,2 +1,2 @@
-# practicas-ISE
+# Grupo B3
 practicas-ISE
